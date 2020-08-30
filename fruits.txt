@@ -1,3 +1,3 @@
-1) Fresh Apple
-2) Fresh Orange
-3) Fresh Banana
+1) Apple
+2) Orange
+3) Banana
